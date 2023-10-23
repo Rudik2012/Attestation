@@ -1,0 +1,14 @@
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Attestation\bin\Debug\net7.0\Attestation.exe
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Attestation\bin\Debug\net7.0\Attestation.deps.json
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Attestation\bin\Debug\net7.0\Attestation.runtimeconfig.json
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Attestation\bin\Debug\net7.0\Attestation.dll
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Attestation\bin\Debug\net7.0\Attestation.pdb
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Attestation\obj\Debug\net7.0\Attestation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Attestation\obj\Debug\net7.0\Attestation.AssemblyInfoInputs.cache
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Attestation\obj\Debug\net7.0\Attestation.AssemblyInfo.cs
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Attestation\obj\Debug\net7.0\Attestation.csproj.CoreCompileInputs.cache
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Attestation\obj\Debug\net7.0\Attestation.dll
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Attestation\obj\Debug\net7.0\refint\Attestation.dll
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Attestation\obj\Debug\net7.0\Attestation.pdb
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Attestation\obj\Debug\net7.0\Attestation.genruntimeconfig.cache
+D:\Учеба_разработчик\3. Знакомство с языками программирования\Attestation\obj\Debug\net7.0\ref\Attestation.dll
